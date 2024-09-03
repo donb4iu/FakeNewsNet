@@ -1,3 +1,12 @@
+# FakeNewsNet
+
+![alt text](image.png)
+
+## References
+
+- [How to Use Artificial Intelligence and Twitter to Detect Fake News
+Creating a neural network that can accurately classify fake news articles with data from Twitter using Python and TensorFlow](https://betterprogramming.pub/how-to-use-artificial-intelligence-and-twitter-to-detect-fake-news-a-python-tutorial-75a4132acf7f)
+
 
 
 ## FakeNewsNet

@@ -36,7 +36,8 @@ class DataCollectorFactory:
 
 
 def init_config():
-    json_object = json.load(open("config.json"))
+    json_object = json.load(open("code/config.json"))
+    print("json_object: ", json_object)
 
     config = Config(json_object["dataset_dir"], json_object["dump_location"], json_object["tweet_keys_file"],
                     int(json_object["num_process"]))
